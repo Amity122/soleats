@@ -1,0 +1,7 @@
+{
+  "name": "SolEats",
+  "integrations": {
+    "capacitor": {}
+  },
+  "type": "vue-vite"
+}
